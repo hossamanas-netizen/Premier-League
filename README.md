@@ -62,5 +62,6 @@ The goal is to clean, transform, and extract insights from raw football data to 
 💡 Conclusion
 
 This project helped in improving data analysis skills and understanding how to turn raw data into meaningful insights.
-<img width="1600" height="607" alt="Rremier League Photo" src="https://github.com/user-attachments/assets/5992cdc9-18d5-4df1-87ed-e9e86120b83b" />
+<img width="1559" height="672" alt="WhatsApp Image 2026-04-19 at 3 12 08 PM" src="https://github.com/user-attachments/assets/93dbae2b-8289-4d81-b424-af5d14389bd8" />
+
 
